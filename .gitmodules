@@ -1,6 +1,3 @@
-[submodule "syntax/vim-elixir"]
-	path = syntax/vim-elixir
-	url = https://github.com/elixir-editors/vim-elixir.git
 [submodule "vim-elixir"]
 	path = vim-elixir
 	url = https://github.com/elixir-editors/vim-elixir.git
