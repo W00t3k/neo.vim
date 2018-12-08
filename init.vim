@@ -76,11 +76,11 @@ let mapleader=","
 " NOTE: This makes creating non-existent directories easier. For example; when
 " you :e /project/dir1/file and `dir1` doesn't exist you can simply create the
 " directory with `:!mkdir %%` instead of typing the full path.
-cnoremap <expr> %% expand('%:h').'/'
+cnoremap %% <C-R>=expand('%:h').'/'<cr>
 
 
 " Edit files under current file directory
-nnoremap <leader>e :edit %%
+map <leader>e :edit %%
 
 
 " Rename current file
