@@ -4,11 +4,14 @@ The Ultimate Nvim Distribution Without Plugins
 
 
 # TODO
+- [ ] Elixir setup
 - [x] Ruby setup
 - [x] Go setup
 - [x] Delete buffer without losing window
 - [x] Switch between buffers
 - [x] Rename file
+- [x] Search in files
+- [x] Search the word under the cursor
 - [ ] Fuzzy Finder
   - This snippet doesn't work on Nvim (It works in Vim btw) so I'm working on it, any comments are welcome.
   ```vim
