@@ -12,6 +12,7 @@ The Ultimate Nvim Distribution Without Plugins
 - [x] Rename file
 - [x] Search in files
 - [x] Search the word under the cursor
+- [ ] Automate installing external dependencies (Like color-scheme, fzy, git, rg, etc)
 - [ ] Fuzzy Finder
   - This snippet doesn't work on Nvim (It works in Vim btw) so I'm working on it, any comments are welcome.
   ```vim
