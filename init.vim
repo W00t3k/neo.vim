@@ -121,3 +121,8 @@ nnoremap <leader>d :setl bufhidden=delete\|bnext<cr>
 " Switch between buffers
 " SEE: https://vi.stackexchange.com/a/2187
 nnoremap <leader>b :ls<cr>:b<space>
+
+
+" Search through files
+" SEE: https://github.com/cloudhead/neovim-fuzzy
+nnoremap <leader>p :FuzzyOpen<cr>

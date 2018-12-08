@@ -1,0 +1,1 @@
+../neovim-fuzzy/plugin/neovim-fuzzy.vim
